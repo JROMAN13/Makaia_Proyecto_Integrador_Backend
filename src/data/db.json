@@ -1,0 +1,174 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Luxury Gems Necklace",
+            "price": 168.76,
+            "type": "Necklaces",
+            "image": "../assets/img/img_view2/img1.png",
+            "description": "Lorem Gems",
+            "stockSize": {
+                "30": 5,
+                "32": 10,
+                "34": 8
+            }
+        },
+        {
+            "id": 2,
+            "name": "Aurora Ring",
+            "price": 125.28,
+            "type": "Rings",
+            "image": "../assets/img/img_view2/img13.png",
+            "description": "Lorem Ring",
+            "stockSize": {
+                "6": 4,
+                "6.5": 7,
+                "7": 3
+            }
+        },
+        {
+            "id": 3,
+            "name": "Reflections Necklace",
+            "price": 620.73,
+            "type": "Bracelets",
+            "image": "../assets/img/img_view2/Img3.png",
+            "description": "Lorem Bracelent",
+            "stockSize": {
+                "14": 2,
+                "15": 7,
+                "17": 6
+            }
+        },
+        {
+            "id": 4,
+            "name": "Dreamy Infinity Ring",
+            "price": 327.71,
+            "type": "Rings",
+            "image": "../assets/img/img_view2/img4.png",
+            "description": "Lorem Earrings",
+            "stockSize": {
+                "10": 4,
+                "12": 3,
+                "14": 8
+            }
+        },
+        {
+            "id": 5,
+            "name": "Opulet Jewels Ring",
+            "price": 168.76,
+            "type": "Rings",
+            "image": "../assets/img/img_view2/img5.png",
+            "description": "Lorem Diamond",
+            "stockSize": {
+                "11": 3,
+                "13": 5,
+                "15": 7
+            }
+        },
+        {
+            "id": 6,
+            "name": "Serene Solitaire Earrings",
+            "price": 125.28,
+            "type": "Earrings",
+            "image": "../assets/img/img_view2/img6.png",
+            "description": "Lorem Diamond",
+            "stockSize": {
+                "11": 3,
+                "13": 5,
+                "15": 7
+            }
+        },
+        {
+            "id": 7,
+            "name": "Timeless Halo Earrings",
+            "price": 620.73,
+            "type": "Earrings",
+            "image": "../assets/img/img_view2/img7.png",
+            "description": "Lorem Diamond",
+            "stockSize": {
+                "11": 3,
+                "13": 5,
+                "15": 7
+            }
+        },
+        {
+            "id": 8,
+            "name": "Exquisite Earrings",
+            "price": 327.71,
+            "type": "Earrings",
+            "image": "../assets/img/img_view2/img8.png",
+            "description": "Lorem Diamond",
+            "stockSize": {
+                "11": 3,
+                "13": 5,
+                "15": 7
+            }
+        },
+        {
+            "id": 9,
+            "name": "Timeless Elegance Ring",
+            "price": 168.76,
+            "type": "Rings",
+            "image": "../assets/img/img_view2/img9.png",
+            "description": "Lorem Diamond",
+            "stockSize": {
+                "11": 3,
+                "13": 5,
+                "15": 7
+            }
+        },
+        {
+            "id": 10,
+            "name": "Luxury Charms Ring",
+            "price": 620.73,
+            "type": "Rings",
+            "image": "../assets/img/img_view2/img10.png",
+            "description": "Lorem Diamond",
+            "stockSize": {
+                "11": 3,
+                "13": 5,
+                "15": 7
+            }
+        },
+        {
+            "id": 11,
+            "name": "Blissful Bloom Ring",
+            "price": 620.73,
+            "type": "Rings",
+            "image": "../assets/img/img_view2/img11.png",
+            "description": "Lorem Diamond",
+            "stockSize": {
+                "11": 3,
+                "13": 5,
+                "15": 7
+            }
+        },
+        {
+            "id": 12,
+            "name": "Sparkling Ring",
+            "price": 620.73,
+            "type": "Bracelets",
+            "image": "../assets/img/img_view2/img12.png",
+            "description": "Lorem Diamond",
+            "stockSize": {
+                "11": 3,
+                "13": 5,
+                "15": 7
+            }
+        },
+        {
+            "id": 13,
+            "name": "Divine Diamonds",
+            "price": 540.13,
+            "type": "Necklaces",
+            "image": "../assets/img/img_view2/img2.png",
+            "description": "Lorem Diamond",
+            "stockSize": {
+                "11": 3,
+                "13": 5,
+                "15": 7
+            }
+        }
+    ],
+    "ordenesCompra": []
+}
